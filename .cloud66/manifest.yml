@@ -1,0 +1,8 @@
+production:
+  rails:
+    servers:
+      server:
+        unique_name: 'frontend1'
+			  vendor: 'digitalocean'
+			  region: '4'
+			  size: '62'
