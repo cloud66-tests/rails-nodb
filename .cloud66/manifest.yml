@@ -2,7 +2,7 @@ production:
   rails:
     servers:
       server:
-        unique_name: 'frontend1'
+        unique_name: 'rails1'
         vendor: 'digitalocean'
         region: '4'
         size: '62'
