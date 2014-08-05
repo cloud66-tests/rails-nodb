@@ -1,8 +1,8 @@
 production:
   rails:
     servers:
-      server:
-        unique_name: 'rails1'
-        vendor: 'digitalocean'
-        region: '4'
-        size: '62'
+      - server:
+          unique_name: 'rails1'
+          vendor: 'digitalocean'
+          region: '4'
+          size: '62'
