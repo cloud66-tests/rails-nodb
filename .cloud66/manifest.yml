@@ -3,6 +3,6 @@ production:
     servers:
       - server:
           unique_name: 'rails1'
-          vendor: 'digitalocean'
-          region: '4'
-          size: '62'
+          vendor: 'azure'
+          region: 'Central US'
+          size: 'A1'
