@@ -5,4 +5,4 @@ production:
           unique_name: 'rails1'
           vendor: 'azure'
           region: 'Central US'
-          size: 'A1'
+          size: 'Small'
